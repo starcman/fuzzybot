@@ -1,4 +1,4 @@
-
+# Uninstall factory apps from android
 
 ## Enable Developer Settings
 1. Open the Settings app on your phone and scroll down to About Phone.
